@@ -1,8 +1,9 @@
 <center>
 
-<img src="/assets/gaseasicf.webp" width="200">
+<img src="https://i.imgur.com/MbOZ2LN.png" width="300">
 
 </center>
+
 
 # How to Buy on Darknet Markets: A Step-by-Step Guide for Secure Transactions
 
@@ -20,12 +21,10 @@ To begin, you need to access a darknet marketplace using the **Tor Browser**. Th
   
 **Tip**: Bookmark the market’s onion link for easy and safe access in the future.
 
-### December 2024 official onion links:
+### February 2025 official onion links:
   - [Marketplaces](#marketplaces)
     - [Established](#established)
-  - [Stores](#stores)
-    - [Fraud Stores](#fraud-stores)
-  - [Crypto Exchanges](#crypto-exchanges)
+
 
 
 ## Marketplaces
@@ -64,10 +63,6 @@ To begin, you need to access a darknet marketplace using the **Tor Browser**. Th
 
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/assets/tiopale.webp" width="600"><a>
 
-- [Black Pyramid - Market](@black pyramid@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@black pyramid@"><img src="/assets/kettsugi.webp" width="600"><a>
 
 - [Vortex - Market](http://bcw5fphsckjy5o3hinb2onvv3pwzum7wasv7q2h335lwup7rkvg6l7id.onion) - `Click on the image to go to the website.`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
@@ -81,13 +76,7 @@ To begin, you need to access a darknet marketplace using the **Tor Browser**. Th
 
 - [Dark Matter - Market](http://7qu6pv7e4xajhsl7x5dohf7rllioxkuqkx6yy3o2zawiyzdcyzhtz3qd.onion) - `Click on the image to go to the website.`
   - **Accepted Cryptocurrency:** Monero
-
 <a href="http://7qu6pv7e4xajhsl7x5dohf7rllioxkuqkx6yy3o2zawiyzdcyzhtz3qd.onion"><img src="/assets/leshefu.webp" width="600"><a>
-
-- [Fish - Market](@go fish@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@go fish@"><img src="/assets/stanlautil.webp" width="600"><a>
 
 - [Kerberos - Market](http://glzgagus24g6pjcis6gg7lgujmguxelczsfpvtdks3dggmxkrcwk6eqd.onion) - `Click on the image to go to the website.`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
@@ -103,46 +92,6 @@ To begin, you need to access a darknet marketplace using the **Tor Browser**. Th
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion"><img src="/assets/ningconra.webp" width="600"><a>
-
-- [Mega - Market (Russia)](@mega market@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero, USDT20
-
-<a href="@mega market@"><img src="/assets/topizce.webp" width="600"><a>
-
-## Stores
-
-- [Smokers Co](@smokersco@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Monero
-
-<a href="@smokersco@"><img src="/assets/asbarcu.webp" width="600"><a>
-
-- [Gamma Goblin](@gammagoblin@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin
-
-<a href="@gammagoblin@"><img src="/assets/kyopelag.webp" width="600"><a>
-
-- [The - Spitzenkörper](@the spitzenkorper@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@the spitzenkorper@"><img src="/assets/disquiplaz.webp" width="600"><a>
-
-- [Tribe - Seuss](@tribe seuss@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@tribe seuss@"><img src="/assets/neurimla.webp" width="600"><a>
-
-### Fraud Stores
-
-- [Biden Cash](@bidencash@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin
-
-<a href="@bidencash@"><img src="/assets/jhelerac.webp" width="600"><a>
-
-- [Brians Club](@briansclub@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin, Dash, USDT20
-
-<a href="@briansclub@"><img src="/assets/congousen.webp" width="600"><a>
-
 
 
 ## Step 2: Choose and Pay for Your Product
